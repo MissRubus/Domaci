@@ -1,0 +1,37 @@
+/* ctrl+/ - zakomentarise celu liniju texta */
+/* crtl+ strelica levo/desno - preskace celu rec, pravilo ili stagod */
+/* crtl+Shift+ strelica levo/desno - selektuje celu rec, pravilo ili stagod */
+body {
+	margin-left: 150px;
+	margin-top: 100px;
+	margin-right: 200px;
+	background-image: url("concrete_trans.jpg");
+	background-repeat: no-repeat;
+}
+h1 {
+	font-size: 40px;
+	font-family: Calibri, sans-serif;
+	color: #2a2d33;
+	width: 400px;
+}
+img {
+	float: right;
+	align-self: center;
+	opacity: 0.8;
+}
+p {
+	font-size: 25px;
+	font-weight: 15px;
+	font-family: Calibri, sans-serif;
+	color: #2a2d33;
+	margin-left: 20px;
+	width: 450px;
+}
+.indent{
+	margin-left: 50px;	
+}
+.author {
+	margin-left: 250px;
+	font-size: 35px;
+	font-weight: 2px;
+}
