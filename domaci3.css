@@ -1,0 +1,26 @@
+div {
+	border: 1px solid #242424;
+	width: 200px;
+	height: 200px;
+	margin: 54px;
+	border-radius: 5px;
+}
+p {
+	padding: 15px;
+	/* Nije mi jasno zasto je po default-u tako jako spusten paragraf. 
+	Iz tog razloga sam morala da namestam marginu u minus da bih namincala paragraf u box */
+	margin-top: -118px;
+}
+#circle{
+	height: 50px;
+	width: 50px;
+	background-color: #242424;
+	border-radius: 50px;
+	position: relative;
+	top: -79px;
+	left: 19px;
+}
+.inline {
+	float: left;
+	display: inline-block;
+}
