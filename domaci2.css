@@ -1,0 +1,28 @@
+body {
+	font-family: Calibri, sans-serif;
+	text-align: center;
+}
+h1 {
+	color: red;
+}
+img {
+	width: 600px;
+}
+div {
+	position: relative;
+	top: -50px;
+}
+h2 {
+	color: red;
+}
+#tekst {
+	font-size: 18px;
+    width: 450px;
+    text-align: left;
+    margin: auto;
+}
+a {
+	float: right;
+	font-size: 18px;
+	margin-right: 300px;
+}
